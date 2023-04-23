@@ -1,0 +1,9 @@
+st7789
+scd4x
+pimoroni-mics6814
+bme680
+rpi.gpio
+pillow
+spidev
+numpy
+influxdb

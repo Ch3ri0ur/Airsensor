@@ -1,0 +1,7 @@
+venv
+.vscode
+__pycache__
+bme680/
+mics6814/
+scd4x-python/
+st7789-python/
